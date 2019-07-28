@@ -1,0 +1,10 @@
+{
+  "merge": "vampirism:vampire/defensive1",
+  "faction": "vampirism:vampire",
+  "skills": [
+    "vampirism:vampire_rage",
+    "vampirism:blood_charge",
+    "vampirism:freeze"
+
+  ]
+}
