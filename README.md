@@ -2,6 +2,8 @@
 These packs are not designed to be actually used but rather as an example to base your own ones on.   
   
 Keep in mind that this repository might not always be up to date.
+
+Start [here](https://github.com/TeamLapen/Vampirism/wiki/Datapacks)
 ## How to create/use datapacks
 Have a look at the Minecraft Wiki.  
 [Installing them](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack)
