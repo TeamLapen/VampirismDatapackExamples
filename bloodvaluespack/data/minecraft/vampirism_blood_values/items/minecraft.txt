@@ -1,0 +1,2 @@
+#Vanilla
+minecraft:stone=5

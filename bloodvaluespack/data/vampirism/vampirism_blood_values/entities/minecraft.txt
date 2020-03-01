@@ -1,0 +1,23 @@
+#General Multiplier. Is divided by 10.
+minecraft:multiplier=10
+
+#Vanilla
+minecraft:cow=20
+minecraft:horse=0
+minecraft:mule=0
+minecraft:donkey=0
+minecraft:villager=0
+minecraft:pig=0
+minecraft:sheep=0
+minecraft:ocelot=0
+minecraft:wolf=0
+minecraft:mooshroom=0
+minecraft:polar_bear=0
+minecraft:rabbit=0
+minecraft:llama=0
+minecraft:chicken=0
+minecraft:panda=0
+minecraft:parrot=0
+minecraft:cat=0
+minecraft:turtle=0
+minecraft:fox=0

@@ -14,3 +14,6 @@ Make sure you understand the concept of namespaces. Only use the "vampirism" one
 ## Overview
 ### Skilltree
 A modified vampire skill tree. Removing some branches and adding some alternatives.
+
+### Blood values
+Adding new bloodvalues and overrides existing values
